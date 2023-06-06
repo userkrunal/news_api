@@ -22,5 +22,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="https://github.com/userkrunal/news_api/assets/120082312/ad5ba81b-e1d3-431c-8f13-e818bda844f2"  width="250" height="500">
 
-<img src="https://github.com/userkrunal/news_api/assets/120082312/e4f499ca-9ee6-4efb-834a-ade7e6c7c5f0"  width="250" height="500">
+<img src="https://github.com/userkrunal/news_api/assets/120082312/23db867e-8c4e-44fd-9a46-9c2d2934848f"  width="250" height="500">
 
